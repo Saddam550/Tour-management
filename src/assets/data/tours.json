@@ -1,0 +1,132 @@
+[
+    {
+      "title": "Westminister Bridge",
+      "city": "London",
+      "address": "Somewhere in London",
+      "distance": 300,
+      "price": 99,
+      "maxGroupSize": 10,
+      "desc": "this is the description",
+      "reviews": [],
+  
+      "photo": "https://www.londonxlondon.com/wp-content/uploads/2022/03/Westminster_Bridge_shutterstock_1897671799.jpg",
+      "featured": true
+    },
+    {
+      "title": "Bali, Indonesia",
+      "city": "Bali",
+      "address": "Somewhere in Indonesia",
+      "distance": 400,
+      "price": 99,
+      "maxGroupSize": 8,
+      "desc": "this is the description",
+      "reviews": [],
+  
+      "photo": "https://a.cdn-hotels.com/gdcs/production143/d1112/c4fedab1-4041-4db5-9245-97439472cf2c.jpg",
+      "featured": true
+    },
+    {
+      "title": "Snowy Mountains, Thailand",
+      "city": "Bangkok",
+      "address": "Somewhere in Thailand",
+      "distance": 500,
+      "price": 99,
+      "maxGroupSize": 8,
+      "desc": "this is the description",
+      "reviews": [],
+  
+      "photo": "https://bk.asia-city.com/sites/default/files/snow1003.jpg",
+      "featured": true
+    },
+    {
+      "title": "Beautiful Sunrise, Thailand",
+      "city": "Phuket",
+      "address": "Somewhere in Thailand",
+      "distance": 500,
+      "price": 99,
+      "maxGroupSize": 8,
+      "desc": "this is the description",
+      "reviews": [],
+  
+      "photo": "https://jonistravelling.com/wp-content/uploads/2020/01/phu-chi-fa-sunrise.jpg",
+      "featured": true
+    },
+    {
+      "title": "Nusa Pendia Bali, Indonesia",
+      "city": "Bali",
+      "address": "Somewhere in Indonesia",
+      "distance": 500,
+      "price": 99,
+      "maxGroupSize": 8,
+      "desc": "this is the description",
+      "reviews": [],
+  
+      "photo": "https://a.cdn-hotels.com/gdcs/production51/d1983/1a7e2818-045b-4fcc-973c-6d5f63a523ec.jpg",
+      "featured": true
+    },
+    {
+      "title": "Cherry Blossoms Spring",
+      "city": "Tokyo",
+      "address": "Somewhere in Japan",
+      "distance": 500,
+      "price": 99,
+      "maxGroupSize": 8,
+      "desc": "this is the description",
+      "reviews": [],
+  
+      "photo": "https://www.kcpinternational.com/wp-content/uploads/2011/07/Spring-in-Tokyo.jpg",
+      "featured": true
+    },
+    {
+      "title": "Holmen Lofoten, France",
+      "city": "Paris",
+      "address": "Somewhere in France",
+      "distance": 500,
+      "price": 99,
+      "maxGroupSize": 8,
+      "desc": "this is the description",
+      "reviews": [],
+  
+      "photo": "https://www.holmenlofoten.no/wp-content/uploads/2023/08/Holmen-Lofoten_Dan-Mariner.jpg",
+      "featured": true
+    },
+    {
+      "title": "Niagara Falls, Canada",
+      "city": "Toronto",
+      "address": "Somewhere in Canada",
+      "distance": 500,
+      "price": 99,
+      "maxGroupSize": 8,
+      "desc": "this is the description",
+      "reviews": [],
+  
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/a/ab/3Falls_Niagara.jpg",
+      "featured": true
+    },
+    {
+      "title": "Jaflong, Sylhet",
+      "city": "Sylhet",
+      "address": "Somewhere in Sylhet",
+      "distance": 100,
+      "price": 99,
+      "maxGroupSize": 5,
+      "desc": "this is the description",
+      "reviews": [],
+  
+      "photo": "https://www.musafir.com.bd/images/places/Jaflong.jpg",
+      "featured": false
+    },
+    {
+      "title": "Cox's Bazar Sea Beach",
+      "city": "Chittagong",
+      "address": "Somewhere in Chittagong",
+      "distance": 500,
+      "price": 99,
+      "maxGroupSize": 8,
+      "desc": "this is the description",
+      "reviews": [],
+  
+      "photo": "https://image.vietnamnews.vn/uploadvnnews/Article/2023/1/5/258976_cox.jpg",
+      "featured": false
+    }
+  ]
