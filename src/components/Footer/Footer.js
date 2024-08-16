@@ -105,7 +105,7 @@ const Footer = () => {
                                             Email:
                                         </h6>
 
-                                        <p className='mb-0'>mahdihossen273@gmail.com</p>    
+                                        <p className='mb-0'>freelancersaddam550@gmail.com</p>    
                                     </ListGroupItem>
 
                                     <ListGroupItem className='ps-0 border-0 d-flex align-items-center gap-3'>
@@ -114,13 +114,13 @@ const Footer = () => {
                                             Phone:
                                         </h6>
 
-                                        <p className='mb-0'>+012334545689</p>    
+                                        <p className='mb-0'>+8801998065133</p>    
                                     </ListGroupItem> 
                                 </ListGroup>
                         </Col>
 
                         <Col lg='12' className='text-center pt-5'>
-                            <p className='copyright'>Copyright {year}, design and develop by Mahdi Hossen. All rights reserved.</p>
+                            <p className='copyright'>Copyright {year}, design and develop by Saddam Hossen. All rights reserved.</p>
                         </Col>
                     </Row>
                 </Container>
